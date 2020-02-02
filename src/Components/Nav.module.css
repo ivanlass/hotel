@@ -1,0 +1,14 @@
+.navbar {
+    background: rgb(48, 48, 48)!important;
+    
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    color: white;
+    margin: 10px;
+}

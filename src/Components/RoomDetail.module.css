@@ -1,0 +1,11 @@
+.itemHeight {
+    height: 80vh!important;
+}
+
+
+.inlineIcons {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+   
+}
